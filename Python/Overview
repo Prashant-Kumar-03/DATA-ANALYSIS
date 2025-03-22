@@ -1,0 +1,6 @@
+this file contains 2 ipynb file 
+1.  Conducted exploratory data analysis and visualised key relationships in the World Happiness Report 
+2019 using Pandas and Matplotlib. 
+2. Scraped and organised Apple device data from Flipkart to structure relevant insights. 
+   Utilised libraries such as requests for HTML handling, BeautifulSoup for parsing, and Pandas for data 
+organisation 
